@@ -1,0 +1,17 @@
+﻿  dixon.cpp
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(82): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(102): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(108): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(119): warning C4244: "argument": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(120): warning C4244: "argument": konwersja z "__int64" do "unsigned int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(141): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(146): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(151): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(159): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(168): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(171): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(177): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(180): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(230): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\onedrive\pp\programowanie rozproszone\dixon\v4 lap\dixon\dixon\dixon.cpp(232): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+  dixon.vcxproj -> D:\OneDrive\PP\Programowanie rozproszone\DIXON\v4 lap\dixon\Debug\dixon.exe
